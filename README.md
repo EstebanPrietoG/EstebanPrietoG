@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/TOoQR5GWoRyf3YQubR/giphy-downsized.gif"/>
   <H1 align ="center">Hi 👋, my name's Esteban Prieto</H2>
   <h3 align = "center">I'm an electronic engineer from Colombia, I really like anything related to programming, especially anything related to artificial intelligence. I have knowledges about the frontend, mobile development, artificial intelligence, and experience with IoT devices programming</h3>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/esteban-ricardo-prieto-galindo-64bba6202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteban-ricardo-prieto-galindo-64bba6202/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/esteban-ricardo-prieto-galindo-64bba6202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteban-ricardo-prieto-galindo-64bba6202/" height="30" width="40" /></a>
 </p>
 </div>
 
